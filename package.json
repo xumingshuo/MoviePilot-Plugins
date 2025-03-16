@@ -5,6 +5,7 @@
         "version": "0.6",
         "icon": "autosubtitles.jpeg",
         "author": "lightolly",
-        "level": 1
+        "level": 2,
+        "v2": true
       }
 }
